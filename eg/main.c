@@ -2,6 +2,7 @@
 
 int main()
 {
-	printf("ЯЬгуЃК6~\n");
+	printf("ЯЬгуAЃК6~~\n");
+	printf("ЯЬгуBЃК6~~\n");
 	return 0;
 }
