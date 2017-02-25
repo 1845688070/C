@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("ЯЬгуAЃК6~~\n");
-	printf("ЯЬгуBЃК6~~\n");
+	printf("dalao Orz\n");
+	printf("dalao Orz\n");
 	return 0;
 }
